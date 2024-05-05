@@ -1,5 +1,9 @@
-# AI-Driven Clothing Similarity: Enhancing Fashion Ecommerce
+<img src="logo.png" alt="Logo" width="150"/>
+
+
+# Py AI-Driven Clothing Similarity: Enhancing Fashion Ecommerce
 ![Architecture Diagram](images/Diagrama.png)
+
 ## Team Members
 - Julia Orteu
 - Sergi Tomas
@@ -46,6 +50,8 @@ The computational challenge involves comparing tens of thousands of images, whic
 4. **Inference**: Identifies similarities based on learned embeddings.
 5. **Visualization**: Provides visual results via a dashboard.
 
+<img src="loss.png" alt="Loss" width="100"/>
+
 ## Requirements and Rules
 - Open-source algorithms and models preferred.
 - Python is the recommended programming language.
@@ -54,3 +60,8 @@ The computational challenge involves comparing tens of thousands of images, whic
 ## Execution
 To execute the solution, run the `main.py` script.
 
+## Requirements
+To set up the required dependencies for this project, ensure you have Python installed and run:
+```
+bash pip install -r requirements.txt
+```

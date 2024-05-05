@@ -41,18 +41,17 @@ The computational challenge involves comparing tens of thousands of images, whic
 3. **Find and Train Algorithm**: Uses a triplet-based network for learning discriminative feature embeddings.
 4. **Inference**: Identifies similarities based on learned embeddings.
 5. **Visualization**: Provides visual results via a dashboard.
-<table>
-    <tr>
-        <td style="text-align: center;">
-            <img src="images/loss.png" alt="Loss" width="300"/>
-            <p><em>Figure 1: Loss Model Curve</em></p>
-        </td>
-        <td style="text-align: center;">
-            <img src="images/Diagrama.png" alt="Architecture Diagram" width="300"/>
-            <p><em>Figure 2: Similarity Network Architecture Diagram</em></p>
-        </td>
-    </tr>
-</table>
+<div style="display: flex; justify-content: center;">
+    <div style="margin-right: 10px; text-align: center;">
+        <img src="images/loss.png" alt="Loss" width="400"/>
+        <p><em>Figure 1: Loss Model Curve</em></p>
+    </div>
+    <div style="margin-left: 10px; text-align: center;">
+        <img src="images/Diagrama.png" alt="Architecture Diagram" width="400"/>
+        <p><em>Figure 2: Similarity Network Architecture Diagram</em></p>
+    </div>
+</div>
+
 
 ## Our Application: Item Gallery
 This project features a dashboard that demonstrates the results of our model's implementation. The dashboard was built using Streamlit and can be launched from the `app` directory.

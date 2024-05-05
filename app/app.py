@@ -2,7 +2,8 @@ import streamlit as st
 import pandas as pd
 import os
 from style import *
-from test import *
+from test import find_similar_images
+import random
 
 
 # Page configuration
@@ -15,7 +16,7 @@ st.set_page_config(
 st.markdown(styles, unsafe_allow_html=True)
 
 # Base directory and data loading
-BASE_DIR = "../data/"
+BASE_DIR = "../../data/"
 metadata_path = os.path.join(BASE_DIR, "metadata.csv")
 metadata = pd.read_csv(metadata_path)
 
@@ -75,8 +76,8 @@ if random_image is not None:
 
     with col2:
         st.markdown('<div class="subheader">Similar Products</div>', unsafe_allow_html=True)
-        similar_images_paths = [os.path.join(BASE_DIR, path) for path in similar_images["Path"]]
-        st.image(similar_images_paths, width=120, caption=[''] * len(similar_images_paths))
+        #similar_images_paths = [os.path.join(BASE_DIR, path) for path in similar_images["Path"]]
+        st.image(similar_images, width=120, caption=[''] * len(similar_images))
 
         # Button to reload
         if st.button("Reload Item"):

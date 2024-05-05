@@ -1,4 +1,4 @@
-<img src="images/logo.png" alt="Logo" width="150"/>
+<img src="images/logo.png" alt="Logo" width="100"/>
 
 
 # Py AI-Driven Clothing Similarity: Enhancing Fashion Ecommerce
@@ -50,7 +50,8 @@ The computational challenge involves comparing tens of thousands of images, whic
 4. **Inference**: Identifies similarities based on learned embeddings.
 5. **Visualization**: Provides visual results via a dashboard.
 
-<img src="images/loss.png" alt="Loss" width="100"/>
+![Architecture Diagram](images/loss.png.png)
+
 
 ## Requirements and Rules
 - Open-source algorithms and models preferred.

@@ -7,9 +7,9 @@
 
 ## Team Members
 - Julia Orteu
-- Sergi Tomas
 - Elena Alegret
 - Joan Saurina
+- Sergi Tomas
 
 ## Overview
 Our project aims to identify duplicates and similarities within a dataset of approximately 140,000 fashion images. This is part of the Inditex Hackathon Challenge 2024, where precision, efficiency, scalability, and solution completeness are crucial criteria.

@@ -12,7 +12,7 @@
 - Sergi Tomas
 
 ## Overview
-Our project aims to identify duplicates and similarities within a dataset of approximately 140,000 fashion images. This is part of the Inditex Hackathon Challenge 2024, where precision, efficiency, scalability, and solution completeness are crucial criteria.
+Our project aims to identify duplicates and similarities within a dataset of approximately 140,000 fashion images. This is part of the Inditex Hackathon Challenge 2024, where precision, efficiency, scalability, and completeness are crucial criteria.
 
 ## Objective
 The goal is to design an algorithm capable of finding similar clothing images, effectively identifying visual duplicates or near-duplicates. This can streamline e-commerce data management and provide more accurate recommendations for users.

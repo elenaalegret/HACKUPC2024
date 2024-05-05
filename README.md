@@ -49,8 +49,7 @@ The computational challenge involves comparing tens of thousands of images, whic
 3. **Find and Train Algorithm**: Uses a triplet-based network for learning discriminative feature embeddings.
 4. **Inference**: Identifies similarities based on learned embeddings.
 5. **Visualization**: Provides visual results via a dashboard.
-
-![Loss Model Curve](images/loss.png)
+<img src="images/logo.png" alt="Logo" width="300"/>
 
 
 ## Requirements and Rules

@@ -1,11 +1,8 @@
-<img src="images/logo.png" alt="Logo" width="50"/>
-
 
 # Py AI-Driven Clothing Similarity: Enhancing Fashion Ecommerce
-<div style="text-align: center;">
-    <img src="images/Diagrama.png" alt="Architecture Diagram"/>
-    <p><em>Figure 1: Symilarity Network Architecture Diagram</em></p>
-</div>
+<p align="center">
+    <img src="images/dashboard.png" alt="Dashboard" width="400"/>
+</p>
 
 ## Team Members
 - Julia Orteu
@@ -75,3 +72,5 @@ pip install -r requirements.txt
 
 #### Accessing Data and Model Weights
 ⚠️ In case access to the dataset or trained model weights is required, please reach out to the contributors directly. Alternatively, you may retrain the model by executing the provided code. The team will provide guidance for these steps if needed.
+
+<img src="images/logo.png" alt="Logo" width="80"/>

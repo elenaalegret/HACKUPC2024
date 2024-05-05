@@ -53,6 +53,15 @@ The computational challenge involves comparing tens of thousands of images, whic
 
 ## Our Application: Item Gallery
 This project features a dashboard that demonstrates the results of our model's implementation. The dashboard was built using Streamlit and can be launched from the `app` directory.
+<p align="center">
+    <img src="images/interface.jpeg" alt="Architecture Diagram" width="360"/>
+</p>
+
+<p align="center">
+    <em>Figure 3: Example of our Interface</em>
+</p>
+
+
 ### Instructions:
 1. **Navigate to the Application Directory**  
    Go to the `app` directory where the application files are stored:

@@ -46,8 +46,9 @@ def load_random_images(product_type_name, section_name=None):
 
     # Extract the 12 most similar images using the imported utility function
     comparison_paths = filtered_metadata["Path"] # Path of images that are label=sector
+    comparison_paths = comparison_paths[comparison_paths != base_image_path]
+    
     similar_paths = find_similar_images(base_image_path, comparison_paths, top_k=12)
-
     return random_image, similar_paths
 
 

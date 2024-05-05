@@ -42,13 +42,13 @@ The computational challenge involves comparing tens of thousands of images, whic
 4. **Inference**: Identifies similarities based on learned embeddings.
 5. **Visualization**: Provides visual results via a dashboard.
 <p align="center">
+    <img src="images/Diagrama.png" alt="Architecture Diagram" width="500"/>
     <img src="images/loss.png" alt="Loss" width="400" style="margin-right: 10px;"/>
-    <img src="images/Diagrama.png" alt="Architecture Diagram" width="400"/>
 </p>
 
 <p align="center">
-    <em>Figure 1: Loss Model Curve</em> &emsp;&emsp;&emsp;&emsp;&emsp;
-    <em>Figure 2: Similarity Network Architecture Diagram</em>
+    <em>Figure 1: Similarity Network Architecture Diagram</em>
+    <em>Figure 2: Loss Model Curve</em> &emsp;&emsp;&emsp;&emsp;&emsp;
 </p>
 
 

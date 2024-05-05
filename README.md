@@ -59,13 +59,12 @@ This project features a dashboard that demonstrates the results of our model's i
    ```bash
    streamlit run app.py
    ```
-
-
-## ⚠️ Accessing Data and Model Weights
-In case access to the dataset or trained model weights is required, please reach out to the contributors directly. Alternatively, you may retrain the model by executing the provided code. The team will provide guidance for these steps if needed.
-
+   
 ## Requirements
 To set up the required dependencies for this project, ensure you have Python installed and run:
 ```bash
 pip install -r requirements.txt
 ```
+
+#### Accessing Data and Model Weights
+⚠️ In case access to the dataset or trained model weights is required, please reach out to the contributors directly. Alternatively, you may retrain the model by executing the provided code. The team will provide guidance for these steps if needed.

@@ -73,5 +73,7 @@ pip install -r requirements.txt
 
 #### Accessing Data and Model Weights
 ⚠️ In case access to the dataset or trained model weights is required, please reach out to the contributors directly. Alternatively, you may retrain the model by executing the provided code. The team will provide guidance for these steps if needed.
+<p align="center">
+    <img src="images/logo.png" alt="Logo" width="80"/>
+</p>
 
-<img src="images/logo.png" alt="Logo" width="80"/>

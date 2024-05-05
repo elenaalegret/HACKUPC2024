@@ -4,7 +4,7 @@
 # Py AI-Driven Clothing Similarity: Enhancing Fashion Ecommerce
 <div style="text-align: center;">
     <img src="images/Diagrama.png" alt="Architecture Diagram"/>
-    <p><em>Figure 1: System architecture diagram</em></p>
+    <p><em>Figure 1: Symilarity Network Architecture Diagram</em></p>
 </div>
 
 ## Team Members

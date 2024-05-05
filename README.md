@@ -2,7 +2,10 @@
 
 
 # Py AI-Driven Clothing Similarity: Enhancing Fashion Ecommerce
-![Architecture Diagram](images/Diagrama.png)
+<div style="text-align: center;">
+    <img src="images/Diagrama.png" alt="Architecture Diagram"/>
+    <p><em>Figure 2: System architecture diagram</em></p>
+</div>
 
 ## Team Members
 - Julia Orteu
@@ -49,9 +52,10 @@ The computational challenge involves comparing tens of thousands of images, whic
 3. **Find and Train Algorithm**: Uses a triplet-based network for learning discriminative feature embeddings.
 4. **Inference**: Identifies similarities based on learned embeddings.
 5. **Visualization**: Provides visual results via a dashboard.
-
-<img src="images/loss.png" alt="Loss" width="500"/>
-Figure 1: Loss model Curve
+<div style="text-align: center;">
+    <img src="images/loss.png" alt="Loss" width="500"/>
+    <p><em>Figure 2:Loss model Curve</em></p>
+</div>
 
 
 ## Requirements and Rules

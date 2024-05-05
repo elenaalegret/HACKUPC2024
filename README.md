@@ -1,8 +1,9 @@
+<p align="center">
+    <img src="images/dashboard.png" alt="Dashboard" width="1000"/>
+</p>
+
 
 # Py AI-Driven Clothing Similarity: Enhancing Fashion Ecommerce
-<p align="center">
-    <img src="images/dashboard.png" alt="Dashboard" width="400"/>
-</p>
 
 ## Team Members
 - Julia Orteu

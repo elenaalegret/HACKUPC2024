@@ -4,7 +4,7 @@
 # Py AI-Driven Clothing Similarity: Enhancing Fashion Ecommerce
 <div style="text-align: center;">
     <img src="images/Diagrama.png" alt="Architecture Diagram"/>
-    <p><em>Figure 2: System architecture diagram</em></p>
+    <p><em>Figure 1: System architecture diagram</em></p>
 </div>
 
 ## Team Members
@@ -68,3 +68,6 @@ To set up the required dependencies for this project, ensure you have Python ins
 ```
 bash pip install -r requirements.txt
 ```
+
+## Accessing Data and Model Weights
+In case access to the dataset or trained model weights is required, please reach out to the contributors directly. Alternatively, you may retrain the model by executing the provided code. The team will provide guidance for these steps if needed.

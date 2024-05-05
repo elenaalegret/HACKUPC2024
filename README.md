@@ -41,7 +41,7 @@ The computational challenge involves comparing tens of thousands of images, whic
 5. **Visualization**: Provides visual results via a dashboard.
 <p align="center">
     <img src="images/Diagrama.png" alt="Architecture Diagram" width="360"/>
-    <img src="images/loss.png" alt="Loss" width="300" style="margin-right: 10px;"/>
+    <img src="images/loss.png" alt="Loss" width="305" style="margin-right: 10px;"/>
 </p>
 
 <p align="center">

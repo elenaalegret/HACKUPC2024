@@ -41,11 +41,11 @@ The computational challenge involves comparing tens of thousands of images, whic
 5. **Visualization**: Provides visual results via a dashboard.
 <p align="center">
     <img src="images/Diagrama.png" alt="Architecture Diagram" width="360"/>
-    <img src="images/loss.png" alt="Loss" width="310" style="margin-right: 10px;"/>
+    <img src="images/loss.png" alt="Loss" width="315" style="margin-right: 10px;"/>
 </p>
 
 <p align="center">
-    <em>Figure 1: Similarity Network Architecture Diagram</em>
+    <em>Figure 1: Similarity Network Architecture Diagram     </em>
     <em>Figure 2: Loss Model Curve</em> &emsp;&emsp;&emsp;&emsp;&emsp;
 </p>
 

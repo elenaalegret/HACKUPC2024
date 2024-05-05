@@ -49,16 +49,15 @@ The computational challenge involves comparing tens of thousands of images, whic
 3. **Find and Train Algorithm**: Uses a triplet-based network for learning discriminative feature embeddings.
 4. **Inference**: Identifies similarities based on learned embeddings.
 5. **Visualization**: Provides visual results via a dashboard.
-<img src="images/loss.png" alt="Loss" width="300"/>
+
+<img src="images/loss.png" alt="Loss" width="500"/>
+*Figure 1: Loss model Curve*
 
 
 ## Requirements and Rules
 - Open-source algorithms and models preferred.
 - Python is the recommended programming language.
 - Solutions will be evaluated based on precision, efficiency, scalability, and presentation quality.
-
-## Execution
-To execute the solution, run the `main.py` script.
 
 ## Requirements
 To set up the required dependencies for this project, ensure you have Python installed and run:

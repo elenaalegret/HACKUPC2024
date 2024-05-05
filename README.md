@@ -51,7 +51,7 @@ The computational challenge involves comparing tens of thousands of images, whic
 5. **Visualization**: Provides visual results via a dashboard.
 
 <img src="images/loss.png" alt="Loss" width="500"/>
-*Figure 1: Loss model Curve*
+Figure 1: Loss model Curve
 
 
 ## Requirements and Rules
